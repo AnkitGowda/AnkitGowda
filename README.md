@@ -13,7 +13,17 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.javascriptprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+![visual studio code](https://img.shields.io/badge/-vscode-333333?style=flat&logo=C%2B%2B&logoColor=vscode)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=C)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub)
+![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=Terminal)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Ashwinigadad&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="My GitHub Streak Stats"><img src="https://github-readme-stats.vercel.app/api?username=Ashwinigadad&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="My GitHub Stats">
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitgowda&show_icons=true&locale=en&layout=compact" alt="ankitgowda" /></p>
 
