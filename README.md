@@ -16,13 +16,13 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-vscode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=181717)
-![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=windowsterminal&logoColor=0078D7)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitgowda&show_icons=true&locale=en&layout=compact" alt="ankitgowda" /></p>
