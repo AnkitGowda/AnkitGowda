@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ankithgowda</h1>
+<h1 align="center">Hi 👋, I'm Ankith I N</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitgowda&label=Profile%20views&color=0e75b6&style=flat" alt="ankitgowda" /> </p>
