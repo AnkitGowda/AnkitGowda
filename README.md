@@ -13,7 +13,7 @@
 📊 Skilled in **Power BI, Python, SQL, Excel, and Alteryx**  
 🚀 Passionate about **analyzing, visualizing, and automating data-driven decisions**  
 🌱 Currently exploring **AI and automation in analytics**  
-📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/ankith-gowda-31b716266/)**  
+📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/ankithin/)**  
 
 ---
 
