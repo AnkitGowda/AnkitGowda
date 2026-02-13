@@ -45,14 +45,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Ankith's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitGowda&show_icons=true&theme=radical)
-
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitGowda&layout=compact&theme=radical)
-
----
-
 ⭐ *"Always learning, analyzing, and creating insights from data!"*
