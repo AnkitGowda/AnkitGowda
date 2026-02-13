@@ -45,19 +45,13 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitGowda&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+![Ankith's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitGowda&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitGowda&theme=radical" alt="GitHub Streak" />
-</p>
+## 💻 Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitGowda&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitGowda&layout=compact&theme=radical)
 
 ---
 
